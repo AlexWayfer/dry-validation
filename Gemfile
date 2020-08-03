@@ -28,7 +28,7 @@ end
 
 group :benchmarks do
   gem 'hotch', platform: :mri
-  gem 'activemodel', '~> 5.0.0.rc'
+  gem 'activemodel', '~> 6.0.3.2'
   gem 'actionpack', '~> 5.0.0.rc'
   gem 'benchmark-ips'
   gem 'virtus'
